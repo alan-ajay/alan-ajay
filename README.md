@@ -1,38 +1,7 @@
 # Hi there 👋 I'm Alan Ajay  
 
 🎓 **Integrated M.Sc. Physics Student** at [NISER Bhubaneswar](https://www.niser.ac.in/)  
-💡 Passionate about **Quantum Information, Nonlinear Dynamics, and Computational Physics**  
-🔬 Exploring the intersection of **theoretical** and **computational physics**  
-
----
-
-## 🔭 Research Interests
-- Nonlinear Dynamics and Chaos  
-- Quantum Information and Quantum Computation  
-- Variational Quantum Algorithms (VQAs)  
-- Computational and Numerical Physics  
-
----
-
-## 📚 Research Experience
-- **Summer Intern** · *Jaypee Institute of Information Technology*  
-  Explored **Quantum Secure Multiparty Computation (QSMC)** with applications to secure quantum auction.  
-  Worked on circuit ansatz design techniques to enhance **Variational Quantum Algorithms (VQAs)**.  
-
-- **Summer Course** · *Indian Statistical Institute (ISI), Kolkata*  
-  Attended the **SCQIF-2025** program on *Quantum Information and Foundations* under Dr. Guruprasad Kar and Dr. Ramij Rahman.  
-
-- **Winter Intern** · *School of Physical Sciences, NISER*  
-  Implemented the **Fast Fourier Transform (FFT)** algorithm, studied **function spaces** and **series convergence**, and explored numerical techniques.  
-
-- **Summer Intern** · *IISER Thiruvananthapuram*  
-  Worked on **Nonlinear Dynamics and Chaos** under Dr. Chandrakala Meena, studying dynamical systems, exploring chaos theory, and reviewing bifurcations in chaotic systems.  
-
----
-
-## 🛠️ Skills
-- **Programming & Tools**: Python, Qiskit, LaTeX, VS Code, Git  
-- **Physics & Math**: Quantum Information, Nonlinear Dynamics, Computational Physics, Numerical Methods  
+💡 Interested in **Quantum Information, Nonlinear Dynamics, Variational Quantum Algorithms, and Computational Physics**  
 
 ---
 
@@ -45,10 +14,11 @@
 
 ---
 
-## 📫 Connect with Me
-- **Email**: [alan.ajay@niser.ac.in](mailto:alan.ajay@niser.ac.in)  
-- **GitHub**: [github.com/alan-ajay](https://github.com/alan-ajay)  
-- **LinkedIn**: [Alan Ajay](https://www.linkedin.com/in/alan-ajay/)  
+## 📄 CV
+You can find my detailed CV here: [View CV](https://drive.google.com/file/d/1iz6_Ylhnh4kjxaSl6hGkcj4w_lVhStGR/view?usp=sharing)  
 
 ---
-✨ Always curious about the unknown, and eager to bridge **theoretical physics** with **computational frontiers**.
+
+## 📫 Connect
+- **Email**: [alan.ajay@niser.ac.in](mailto:alan.ajay@niser.ac.in)  
+- **GitHub**: [github.com/alan-ajay](https://github.com/alan-ajay)  
