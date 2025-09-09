@@ -5,7 +5,7 @@
 
 ---
 ## 📄 CV
-You can find my detailed CV here: [View CV](https://drive.google.com/file/d/1J9nzrHmn8zf7sEwgeyWkMrpmdyzm6ya7/view?usp=sharing)  
+You can find my detailed CV here: [View CV]([https://drive.google.com/file/d/1J9nzrHmn8zf7sEwgeyWkMrpmdyzm6ya7/view?usp=sharing](https://drive.google.com/file/d/1jSTOZc2QdPO1p8ZQ_oSsOJSiYaYjEB3o/view?usp=sharing))  
 
 ---
 
