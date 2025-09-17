@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Alan Ajay  
 
 🎓 **Integrated M.Sc. Physics Student** at [NISER Bhubaneswar](https://www.niser.ac.in/)  
-💡 Interested in **Quantum Information, Nonlinear Dynamics, Variational Quantum Algorithms, Condensed Matter and Computational Physics**  
+💡 Interested in **Quantum Information, Nonlinear Dynamics, Variational Quantum Algorithms, Condensed Matter, Many body and Open quantum systems and Computational Physics**  
 
 ---
 ## 📄 CV
